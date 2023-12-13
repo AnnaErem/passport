@@ -1,2 +1,2 @@
 # passport
-https://annaerem.github.io/passport/
+https://annaerem.github.io
